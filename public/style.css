@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 20px;
+   
+}
+h1 {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+#pic {
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    background-image: url('/Sonnenaufgang-BDT-0405.jpg');
+    background-size: cover;
+}
+a {
+    font-size: 20px;
+    text-decoration: none;
+    font-style: italic;
+    color: azure;
+    border: 1px solid azure;
+    width: 100px;
+    text-align: center;
+}
+#main-index {
+    width: 500px;
+    height: 200px;
+    background-color: cornsilk;
+    margin: auto;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 5px;
+    color: white;
+    margin-top: 10px;
+    
+}
